@@ -1,0 +1,1 @@
+docker run -it -v $PWD:/app -w /app -e NAME=Francesco python python3 hello_python_name.py
